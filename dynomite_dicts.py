@@ -20,3 +20,5 @@ if __name__ == "__main__":
     pokedex['Blastoise'] = ['Water']
     #del pokemon_types['squirtel']
     del pokedex['Blastoise']
+    print(pokedex)
+    print("All done dynomite_dicts!")
